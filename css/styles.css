@@ -43,3 +43,28 @@ body {
 	padding-left: 75px;
 }
 }
+
+.gallery-header {
+	margin-bottom: 25px;
+	font-size: 48px;
+}
+
+.text {
+	font-size: 16px;
+	margin-top: 48px;
+}
+
+.foot {
+	background-color: black;
+	height: 65px;
+	color: white;
+}
+
+.name {
+	font-size: 24px;
+	font-weight: bold;
+}
+
+section.foot.text-center > p {
+	padding-top: 21px;
+}
