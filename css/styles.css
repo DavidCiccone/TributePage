@@ -56,8 +56,9 @@ body {
 
 .foot {
 	background-color: black;
-	height: 65px;
+	height: auto;
 	color: white;
+	margin-bottom: 0px;
 }
 
 .name {
@@ -66,5 +67,9 @@ body {
 }
 
 section.foot.text-center > p {
-	padding-top: 21px;
+	margin-bottom: 0px;
+}
+
+.info {
+	padding: 15px 0;
 }
