@@ -38,12 +38,14 @@ body {
 
 
 
-@media screen and (min-width: 990px) {
-.title-container {
-	padding-left: 75px;
-}
-}
 
+.title-container {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-40%, -95%);
+
+}
 .gallery-header {
 	margin-bottom: 25px;
 	font-size: 48px;
